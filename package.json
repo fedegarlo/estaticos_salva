@@ -1,0 +1,14 @@
+{
+  "name": "estaticos_salva",
+  "version": "1.0.0",
+  "description": "Estaticos para Salva",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.16.3"
+  }
+}
